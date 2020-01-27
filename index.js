@@ -1,3 +1,3 @@
 // Write your solution here!
-append = [];
+const append = [];
 append.push('Odie');
